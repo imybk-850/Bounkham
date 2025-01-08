@@ -6,4 +6,6 @@ class Bounkham(Student):
     def speak(self):
         return "Toi ten la: Bounkham.\nGmail: sbk796307@gmail.com"
     def address(self):
-        return "DH Quang Binh"
+        return "Savannakhet - Laos"
+    def telegram_id(self) :
+        return "8153376997"
